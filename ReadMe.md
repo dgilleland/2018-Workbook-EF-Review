@@ -1,12 +1,12 @@
 # DMIT-2018 - In-Class Examples (Jan 2019)
 
-The files in this repository branch are my in-class examples. Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://dmit-2018.github.io). Also be sure to checkout out the [**Learning Outcomes**](https://dmit-2018.github.io/about/LOGs.html) that I use in class.
+The files in this repository branch are my [in-class examples](./src/ReadMe.md). Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://dmit-2018.github.io). Also be sure to checkout out the [**Learning Outcomes**](https://dmit-2018.github.io/about/LOGs.html) that I use in class.
 
 ## Outline
 
 ----
 
-## ![Software et.al.](./docs/code.png) Software & Resources
+## ![Software et.al.](./docs/images/code.png) Software & Resources
 
 Recommended tools for this course include:
 
