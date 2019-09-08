@@ -24,3 +24,23 @@ Other recommended resources include:
 Advanced resources outside the scope of this course include:
 
 - [Azure Developer Tools](https://azureforeducation.microsoft.com/devtools) - Sign in with your school-issued email address to get access to the free resources offered by Microsoft.
+
+----
+
+### Badges
+
+> ![](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-blue)
+>
+> ![](https://img.shields.io/badge/Documentation%20Status-~90%25%20Mostly%20Complete-brightgreen)
+>
+> ![](https://img.shields.io/badge/Documentation%20Status-~70%25%20+%20Usable-yellow)
+>
+> ![](https://img.shields.io/badge/Documentation%20Status-40--70%25%20Incomplete/Draft-orange)
+>
+>  ![](https://img.shields.io/badge/Documentation%20Status-10--40%25%20Rough%20Outline-red)
+>
+>  ![](https://img.shields.io/badge/Documentation%20Status-~10%25%20Minimal%20Outline-lightgrey)
+>
+> ![](https://img.shields.io/badge/Documentation%20Status-~70--90%25-blueviolet)
+>
+>  ![](https://img.shields.io/badge/Documentation%20Status-~70--90%25-green)
