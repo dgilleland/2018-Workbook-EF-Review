@@ -1,6 +1,8 @@
-# DMIT-2018 - In-Class Examples (Jan 2019)
+# DMIT-2018 - **Workbook** (Jan 2019)
 
-The files in this repository branch are my [in-class examples](./src/ReadMe.md). Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://dmit-2018.github.io). Also be sure to checkout out the [**Learning Outcomes**](https://dmit-2018.github.io/about/LOGs.html) that I use in class.
+This repository is a **Workbook** containing demos, tutorials, and practice materials. You can find a list of the materials in the [**src folder**](./src/ReadMe.md).
+
+Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://dmit-2018.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://dmit-2018.github.io/about/LOGs.html) used in class.
 
 ## Outline
 
