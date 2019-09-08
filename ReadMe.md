@@ -31,6 +31,8 @@ Advanced resources outside the scope of this course include:
 
 ### Badges
 
+Custom badges for indicating documentation status and code status are generated from the [**Shields.io**](https://Shields.io) website. Here are a few samples.
+
 > ![Docs](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-brightgreen?logo=Read%20the%20Docs)
 >
 > ![Docs](https://img.shields.io/badge/Documentation%20Status-~90%25%20Mostly%20Complete-blue?logo=Read%20the%20Docs)
