@@ -29,9 +29,9 @@ Advanced resources outside the scope of this course include:
 
 ### Badges
 
-> ![](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-blue)
+> ![](https://img.shields.io/badge/Documentation%20Status-100%25%20Complete-brightgreen)
 >
-> ![](https://img.shields.io/badge/Documentation%20Status-~90%25%20Mostly%20Complete-brightgreen)
+> ![](https://img.shields.io/badge/Documentation%20Status-~90%25%20Mostly%20Complete-blue)
 >
 > ![](https://img.shields.io/badge/Documentation%20Status-~70%25%20+%20Usable-yellow)
 >
